@@ -1,0 +1,17 @@
+../Core/Src/doa_via_block_sparsity.c:76:6:MicsArray_init	32	static
+../Core/Src/doa_via_block_sparsity.c:129:6:DicretizedAngles_init	32	static
+../Core/Src/doa_via_block_sparsity.c:164:6:Frequency_init	16	static
+../Core/Src/doa_via_block_sparsity.c:172:6:SteeringMatrix_init	40	static
+../Core/Src/doa_via_block_sparsity.c:191:11:BCORRF_GetAngle	32	static
+../Core/Src/doa_via_block_sparsity.c:232:16:vad	128	static
+../Core/Src/doa_via_block_sparsity.c:313:13:ComputeDFT	24	static
+../Core/Src/doa_via_block_sparsity.c:324:13:DynamicFrequenciesSelection	48	static
+../Core/Src/doa_via_block_sparsity.c:418:13:sort_desc_f32	32	static
+../Core/Src/doa_via_block_sparsity.c:442:13:sort_desc_i16	32	static
+../Core/Src/doa_via_block_sparsity.c:468:13:ExtractFrequenciesOfInterest	32	static
+../Core/Src/doa_via_block_sparsity.c:517:16:StableDoA	48	static
+../Core/Src/doa_via_block_sparsity.c:589:16:adjust_output_angle	24	static
+../Core/Src/doa_via_block_sparsity.c:618:13:max_block_correlation	80	static
+../Core/Src/doa_via_block_sparsity.c:667:18:dz_sin_f32	24	static
+../Core/Src/doa_via_block_sparsity.c:705:18:dz_cos_f32	16	static
+../Core/Src/doa_via_block_sparsity.c:710:13:dz_cos_msin_f32_table	384	static

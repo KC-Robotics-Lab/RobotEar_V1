@@ -1,0 +1,10 @@
+../Core/Src/AcousticSL_Process.c:28:6:Audio_Libraries_L_Init	16	static
+../Core/Src/AcousticSL_Process.c:67:6:Audio_Libraries_R_Init	16	static
+../Core/Src/AcousticSL_Process.c:106:6:AudioProcess_L	16	static
+../Core/Src/AcousticSL_Process.c:115:6:AudioProcess_R	16	static
+../Core/Src/AcousticSL_Process.c:124:6:SW_Task_L_Start	8	static
+../Core/Src/AcousticSL_Process.c:130:6:SW_Task_R_Start	8	static
+../Core/Src/AcousticSL_Process.c:136:6:SW_Task_L_Callback	8	static
+../Core/Src/AcousticSL_Process.c:192:6:SW_Task_R_Callback	8	static
+../Core/Src/AcousticSL_Process.c:208:6:Audio_FillFromI2S	48	static
+../Core/Src/AcousticSL_Process.c:292:9:apply_offset	24	static
